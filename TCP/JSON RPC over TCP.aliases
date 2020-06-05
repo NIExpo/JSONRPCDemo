@@ -1,0 +1,6 @@
+[My Computer]
+My Computer = "172.17.55.129"
+
+[RT CompactRIO Target]
+RT CompactRIO Target = "NI-cRIO-9045-01D3CFD5"
+
